@@ -21,4 +21,3 @@ to get your changes published into the main repository:
     git push
     
 after you did those steps just create a pull request on github to get your changes merged.
-
