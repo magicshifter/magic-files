@@ -1,13 +1,13 @@
 MagicShifter Magicbitmaps
 ======
 
-The Image repository with magicshifter .magicbitmap files
+The Image repository with magicshifter .magicbitmap and .magicfont files
 
 To upload new images first fork the repository through github:
     
-    git clone git@github.com:{your_github_name}/images
+    git clone git@github.com:{your_github_name}/magic-files
     
-    cd images/user_images/
+    cd images/user_files/
     mkdir {your_name}
     cd {your_name}
   
@@ -15,7 +15,7 @@ then just move your magicbitmaps into that directory.
 
 to get your changes published into the main repository:
     
-    cd images/user_images/your_name
+    cd images/user_files/your_name
     git add .
     git commit -m "{your_name} added some magicbitmaps."
     git push
